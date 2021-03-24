@@ -1,2 +1,3 @@
 # tinyone
-tiny one 2nd part
+tinyone slider part
+https://shishirsharma05.github.io/tinyone/
